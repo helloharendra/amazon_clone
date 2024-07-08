@@ -31,3 +31,6 @@ This project is a clone of the Amazon app, developed using Flutter for the front
    ```bash
    git clone https://github.com/helloharendra/amazon_clone.git
    cd amazon_clone/frontend
+
+## Additional Notes
+- This project is currently in development and may undergo significant changes.
