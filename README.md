@@ -30,5 +30,5 @@ This project is a clone of the Amazon app, developed using Flutter for the front
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/amazon-clone.git
-   cd amazon-clone/frontend
+   git clone https://github.com/helloharendra/amazon_clone.git
+   cd amazon_clone/frontend
