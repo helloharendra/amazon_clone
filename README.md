@@ -15,7 +15,6 @@ This project is a clone of the Amazon app, developed using Flutter for the front
 
 - **Frontend**: Flutter
 - **Backend**: Node.js
-- **Database**: [Your Database System]
 
 ## Installation
 
